@@ -1,0 +1,15 @@
+{
+  "name": "Project webscripten",
+  "version": "0.0.0",
+  "authors": [
+    "Amarildo Miliqi <amarildo.miliqi@kahosl.be>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
